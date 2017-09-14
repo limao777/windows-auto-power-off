@@ -1,0 +1,8 @@
+F:\VS2008_projects\aotu_poweroff\aotu_poweroff\obj\Debug\ResolveAssemblyReference.cache
+F:\VS2008_projects\aotu_poweroff\aotu_poweroff\obj\Debug\aotu_poweroff.Form1.resources
+F:\VS2008_projects\aotu_poweroff\aotu_poweroff\obj\Debug\aotu_poweroff.Properties.Resources.resources
+F:\VS2008_projects\aotu_poweroff\aotu_poweroff\obj\Debug\aotu_poweroff.csproj.GenerateResource.Cache
+F:\VS2008_projects\aotu_poweroff\aotu_poweroff\bin\Debug\aotu_poweroff.exe
+F:\VS2008_projects\aotu_poweroff\aotu_poweroff\bin\Debug\aotu_poweroff.pdb
+F:\VS2008_projects\aotu_poweroff\aotu_poweroff\obj\Debug\aotu_poweroff.exe
+F:\VS2008_projects\aotu_poweroff\aotu_poweroff\obj\Debug\aotu_poweroff.pdb
